@@ -35,9 +35,7 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge\&logo=Twilio\&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DivyaSohni&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=DivyaSohni&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DivyaSohni&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=DivyaSohni&icon=0&color=0)](https://visitcount.itsvg.in)
