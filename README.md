@@ -6,6 +6,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/divya-sohani-n8n) 
 
 # 💻 Tech Stack:
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge\&logo=make\&logoColor=white)
+![Voiceflow](https://img.shields.io/badge/Voiceflow-000000?style=for-the-badge\&logo=voiceflow\&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-7C3AED?style=for-the-badge)
+![Retell AI](https://img.shields.io/badge/Retell_AI-111111?style=for-the-badge)
+
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge\&logo=Twilio\&logoColor=white)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white)
@@ -22,17 +35,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge\&logo=make\&logoColor=white)
-![Voiceflow](https://img.shields.io/badge/Voiceflow-000000?style=for-the-badge\&logo=voiceflow\&logoColor=white)
-![Vapi](https://img.shields.io/badge/Vapi-7C3AED?style=for-the-badge)
-![Retell AI](https://img.shields.io/badge/Retell_AI-111111?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge\&logo=Twilio\&logoColor=white)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
