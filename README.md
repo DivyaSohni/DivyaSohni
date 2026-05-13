@@ -1,24 +1,80 @@
 <h1 align="center">Hi 👋, I'm Divya Sohani</h1>
-<h3 align="center">AI Automation Specialist | Building AI Agents, Voice Bots & Workflow Automations using n8n, OpenAI & APIs</h3>
+<img src="https://cdn.worldvectorlogo.com/logos/domo.svg" alt="domo" width="40" height="40"/>
+</a>
 
-- 🔭 I’m currently working on [Production-ready AI automation systems and AI voice agent's](https://github.com/DivyaSohni)
+<a href="https://developers.google.com/gmail/api" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg" alt="gmail api" width="40" height="40"/>
+</a>
 
-- 🌱 I’m currently learning **Advanced AI Agents, RAG Systems, LLM Integrations, LangChain and Scalable Automation Systems**
+<a href="https://www.whatsapp.com/business/api" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" alt="whatsapp api" width="40" height="40"/>
+</a>
 
-- 👯 I’m looking to collaborate on [AI Automation, AI Agents and Workflow Orchestration Projects](https://github.com/DivyaSohni)
+<a href="https://hubspot.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hubspot.svg" alt="hubspot" width="40" height="40"/>
+</a>
 
-- 🤝 I’m looking for help with [Advanced Multi-Agent AI Systems and RAG Architectures](https://github.com/DivyaSohni)
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" alt="vercel" width="40" height="40"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [https://divyasohani.vercel.app/](https://divyasohani.vercel.app/)
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
 
-- 💬 Ask me about **n8n, OpenAI API, AI Automation, Voice AI, Workflow Automation, APIs, CRM Integrations**
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
-- 📫 How to reach me **sohnid3@gmail.com**
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divya-sohani-n8n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-sohani-n8n" height="30" width="40" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Voice Automation System
+Built scalable multi-client voice AI workflows using Retell AI, GoHighLevel, Firestore, and n8n.
+
+### 🔹 Inbox Intelligence AI
+AI-powered Gmail sales assistant with HubSpot integration and automated reply generation.
+
+### 🔹 HR Automation System
+Automated candidate evaluation system using Fireflies transcript analysis and workflow orchestration.
+
+### 🔹 Travel Planning Bot
+Telegram-based conversational AI planner recommending hotels and flights using APIs and NLP.
+
+---
+</p>
