@@ -34,10 +34,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge\&logo=Twilio\&logoColor=white)
 
-# 📊 GitHub Stats:
-
-
----
-[![](https://komarev.com/ghpvc/?username=DivyaSohni&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
